@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "YiKun Chen / Personal Website"
+title                    : "YiKun Chen（陈奕昆）/ Personal Website"
 title_separator          : "-"
 name                     : &name "YiKun Chen"
 description              : &description "personal description"
