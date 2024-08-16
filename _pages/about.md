@@ -7,20 +7,56 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor at School of Artificial Intelligence, Sun Yat-sen University. I completed my Ph.D. at City University of Hong Kong advised by Prof. Qing Li and my B.Eng. at Nankai University. My research interests are in the areas of diffusion models, generative adversarial networks, and deep generative models.
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 Publications
 ======
-AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation
-Lianyu Pang, Jian Yin, Baoquan Zhao, Feize Wu, Fu Lee Wang, Qing Li, Xudong Mao*;
-Preprint, 2024
-[arXiv] [project] [code (coming soon)]
-
-Awards
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
 ======
-Outstanding Research Thesis Award, 2019
-Hong Kong PhD Fellowship Scheme (HKPFS), 2016-2019
-
-Invention Patent
-------
-Outstanding Research Thesis Award, 2019
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
