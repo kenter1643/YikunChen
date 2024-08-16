@@ -12,7 +12,7 @@ title                    : "YiKun Chen / Personal Website"
 title_separator          : "-"
 name                     : &name "YiKun Chen"
 description              : &description "personal description"
-url                      : https://kenter1643.github.io # the base hostname & protocol for your site e.g. "https://kenter1643.github.io"
+url                      : https://kenter1643.github.io/YikunChen # the base hostname & protocol for your site e.g. "https://kenter1643.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kenter1643/YikunChen.github.io"
 
