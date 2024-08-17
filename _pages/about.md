@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 I am currently the CTO of Guangdong Zhiyun Urban Construction Technology Co., LTD.
-My interests include mathematical geometric analysis, computer graphics, 3D vision, etc. I am engaged in BIM 3D reconstruction digitization related work in architectural scenes.
+My interests include mathematical geometric analysis, computer graphics, 3D vision, etc.
+I am engaged in BIM 3D reconstruction digitization related work in architectural scenes.
 
 Education
 ======
@@ -17,20 +18,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: CEO, Guangdong Zhiyun Urban Construction Technology Co., LTD
+* 2015: CTO, Beijing Institute of Technology Xinyuan Information Technology Co., LTD
+* 2011: Software Development Manager, China Titan Technology Co., LTD
+* 2008: Software Development Manager, China Asia Pacific Electric Efficiency Co., LTD
+* 2005: Programmer, Zhuhai Zhongdasin Technology Co., LTD
   
 Skills
 ======
